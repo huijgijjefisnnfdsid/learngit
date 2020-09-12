@@ -4,3 +4,6 @@ hello
 add dev
 
 add confict2
+add feature1
+
+add feature2
