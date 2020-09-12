@@ -10,3 +10,6 @@ add feature2
 
 
 add git btanch management
+
+
+add solve issure
